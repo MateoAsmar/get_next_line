@@ -6,6 +6,7 @@
 
 get_next_line is a custom implementation of a function that reads from a file descriptor one line at a time. This project challenged me to handle dynamic memory allocation, buffer management, and efficient I/O operations—all while strictly adhering to the 42 Norm. The focus was on developing robust error handling and managing resources effectively.
 
+
 ## Features:
 ### Line Reading:
 - Reads an entire line (including the newline character, if present) from a given file descriptor.
